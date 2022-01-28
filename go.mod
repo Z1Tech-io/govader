@@ -1,4 +1,4 @@
-module github.com/jonreiter/govader
+module github.com/Z1Tech-io/govader
 
 go 1.14
 
